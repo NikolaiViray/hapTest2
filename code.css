@@ -1,0 +1,89 @@
+/* *{
+
+} */
+
+body{
+    background-color: aqua;
+}
+
+.button.div{
+    background-color: aquamarine;
+    padding: 10px;
+    border: solid white;
+}
+
+.button.txt:hover{
+    background-color: aquamarine;
+}
+
+.button.txt{
+    border: solid white;
+    margin-left: 50px;
+    background-color: aqua;
+    font-size: 30px;
+}
+
+.intro.div{
+    background-color: aquamarine;
+    border: solid white;
+    margin: 10px;
+}
+
+.txt{
+    background-color: aqua;
+    border: solid white;
+    margin: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.list.div{
+    border: solid white;
+    background: aquamarine;
+    margin: 10px;
+    
+    
+}
+
+.ol{
+    border: solid white;
+    margin: 10px;
+    background-color: aqua;
+   
+    
+}
+
+.li{
+    border: solid white;
+    
+    background-color: aquamarine;
+    font-size: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+.html1{
+    margin: 20px;
+    width: 500px;
+    display: inline;
+}
+.css1{
+    display: inline;
+    margin: 20px;
+    width: 500px;
+}
+
+.img.list.text{
+    border: solid white;
+    background: aqua;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+ol{
+    padding: 0;
+}
+
+
+
